@@ -1,0 +1,27 @@
+_repo: Riches-of-GraceA-Compilation-of-Experiences-in-the-Christian-Life_36476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byrum, E. E. (Enoch Edwin)
+    alias: Byrum, Enoch Edwin
+    birthdate: 1861
+    gutenberg_agent_id: '38294'
+    url: http://www.gutenberg.org/2009/agents/38294
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+title: "Riches of Grace: A Compilation of Experiences in the Christian Life\r\nA Narration\
+  \ of Trials and Victories Along the Way"
+url: http://www.gutenberg.org/ebooks/36476
